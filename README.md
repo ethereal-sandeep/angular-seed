@@ -25,14 +25,14 @@ and its package manager (npm) installed. You can get them from [here][node].
 Clone the `angular-seed` repository using git:
 
 ```
-git clone https://github.com/angular/angular-seed.git
+git clone https://github.com/ethereal-sandeep/angular-seed.git
 cd angular-seed
 ```
 
 If you just want to start a new project without the `angular-seed` commit history then you can do:
 
 ```
-git clone --depth=1 https://github.com/angular/angular-seed.git <your-project-name>
+git clone --depth=1 https://github.com/ethereal-sandeep/angular-seed.git <your-project-name>
 ```
 
 The `depth=1` tells git to only pull down one commit worth of historical data.
