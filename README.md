@@ -94,6 +94,11 @@ app/                    --> all of the source files for the application
       view1.component.js              --> the controller logic
       view1.component.spec.js         --> tests of the controller 
       view1.template.html            --> the partial template
+    view2/                --> the view1 view template and logic
+      view2.module.js              --> the module
+      view2.component.js              --> the controller logic
+      view2.component.spec.js         --> tests of the controller 
+      view2.template.html            --> the partial template
   app.config.js                --> main application config
   app.module.js                --> import all main module
   index.html            --> app layout file (the main html template file of the app)
